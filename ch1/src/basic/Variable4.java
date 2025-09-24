@@ -10,7 +10,7 @@ public class Variable4 {
         char ch2 = '가';
 
         System.out.printf("%c\n", ch1 + 1);
-        System.out.printf("%d\n", ch1 + 1);
+        System.out.printf("%d\n", ch2 + 1);
 
         System.out.printf("sum = %10.1f\n", (score + score1) / 2);
     }

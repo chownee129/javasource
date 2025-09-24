@@ -9,8 +9,9 @@ public class ScannerEx1 {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("숫자입력하세요");
-        string input = sc.next();
+        String input = sc.next();
         System.out.printf("입력값 : %s", input);
+        sc.close();
 
     }
 }
