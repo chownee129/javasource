@@ -6,7 +6,7 @@ public class SwitchEx1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println(" 달 입력 : ");
+        System.out.println(" 도원경 사냥터 : ");
 
         int mon = Integer.parseInt(sc.nextLine());
 
